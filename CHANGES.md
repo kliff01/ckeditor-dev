@@ -6,6 +6,7 @@
 Fixed Issues:
 
 * [#1986](https://github.com/ckeditor/ckeditor-dev/issues/1986): Fixed: Cell Properties dialog from [Table Tools](https://ckeditor.com/cke4/addon/tabletools) plugin shows styles that are not allowed through [`config.allowedContent`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_config.html#cfg-allowedContent).
+* [#2546](https://github.com/ckeditor/ckeditor-dev/issues/2546): Fixed: Separator in toolbar moves when buttons are focused.
 
 Other Changes:
 
