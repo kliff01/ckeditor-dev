@@ -8,7 +8,6 @@ Fixed Issues:
 * [#1986](https://github.com/ckeditor/ckeditor-dev/issues/1986): Fixed: Cell Properties dialog from [Table Tools](https://ckeditor.com/cke4/addon/tabletools) plugin shows styles that are not allowed through [`config.allowedContent`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_config.html#cfg-allowedContent).
 * [#2506](https://github.com/ckeditor/ckeditor-dev/issues/2506): Fixed: [Enhanced Image](https://ckeditor.com/cke4/addon/image2) throws type error when empty figure tag with 'image' class is upcasted.
 
-
 Other Changes:
 
 * [#2603](https://github.com/ckeditor/ckeditor-dev/issues/2603): Corrected GPL license entry in the `package.json` file.
